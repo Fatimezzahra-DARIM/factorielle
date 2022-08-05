@@ -28,7 +28,7 @@ int main()
   }
   else{
  
-  printf("%d! = %ld\n", nbr, factorial(nbr));
+  printf("%d! = %d\n", nbr, factorial(nbr));
  
   return 0;
 }
